@@ -9,3 +9,5 @@ Starting with the more tentative stages of planning, some of the apps involved m
 * [Recipes](https://github.com/valueflows/vf-apps-recipes).
 * [Generating plans from recipes](https://speakerdeck.com/mikorizal/6-nrp-planning-concepts-and-tutorial).
 * [Executing the plans](https://speakerdeck.com/mikorizal/7-nrp-do-your-work-tutorial).
+
+An important part of executing the plans is [mutual coordination](https://github.com/valueflows/vf-apps-planning/wiki/Mutual-Coordination) of production and distribution.
